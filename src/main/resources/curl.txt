@@ -1,0 +1,1 @@
+curl --location --request GET 'http://localhost:8080/mask?email=abc@yahoo.com&phoneNumber=(123)%20456-7890'
