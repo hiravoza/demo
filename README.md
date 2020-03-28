@@ -1,5 +1,5 @@
-# demo
-MaskingDemo
+# Demo
+Masking Demo
 
 # What
 This is spring boot based app for masking Email Address and Mobile Numbers.
